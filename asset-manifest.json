@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/HawaiProject/static/css/main.79d19d76.css",
+    "main.js": "/HawaiProject/static/js/main.ffa7347c.js",
+    "static/js/453.8e1915eb.chunk.js": "/HawaiProject/static/js/453.8e1915eb.chunk.js",
+    "index.html": "/HawaiProject/index.html",
+    "main.79d19d76.css.map": "/HawaiProject/static/css/main.79d19d76.css.map",
+    "main.ffa7347c.js.map": "/HawaiProject/static/js/main.ffa7347c.js.map",
+    "453.8e1915eb.chunk.js.map": "/HawaiProject/static/js/453.8e1915eb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.79d19d76.css",
+    "static/js/main.ffa7347c.js"
+  ]
+}
